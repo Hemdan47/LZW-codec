@@ -7,7 +7,6 @@ This project implements an LZW-based compression and decompression system in Jav
 - [Installation](#installation)
 - [Usage](#usage)
 - [Example Files](#example-files)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Project Structure
@@ -30,7 +29,7 @@ LZW-codec/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Hemdan47/LZW-codec.git
+   git clone https://github.com/your-username/LZW-codec.git
    ```
 
 2. Compile the Java files:
